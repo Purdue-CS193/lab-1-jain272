@@ -1,3 +1,4 @@
+# Jatin's first CS193 Lab
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -18,8 +19,14 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+
 1. Numbered
 2. List
+
+Things to like about CS-193:
+1. Introduced to Git & GitHub
+2. Made us sign up for GitHub
+3. Introducing us to the developer platform & background
 
 **Bold** and _Italic_ and `Code` text
 ` import javax.swing.*;`
