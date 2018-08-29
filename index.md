@@ -22,6 +22,11 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+` import javax.swing.*;`
+**Hello World!**
+_Really Italics?!_
+
+[https://www.google.com/]
 
 [Link](url) and ![Image](src)
 ```
